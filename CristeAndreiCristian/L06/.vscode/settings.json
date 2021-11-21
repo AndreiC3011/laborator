@@ -1,0 +1,4 @@
+{
+  "appService.deploySubpath": "publish",
+  "appService.defaultWebAppToDeploy": "/subscriptions/b637a925-46e2-4754-a30e-60affc9371dc/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/StudentsWebApi"
+}
